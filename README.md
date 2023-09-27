@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ifedolapo-9
-- 👀 I’m interested in Innovation and Learning new things
-- 🌱 I’m currently learning multiple applications of Python and also a content writer
-- 💞️ I’m looking to collaborate
+- 👀 I’m a Python Developer and Technical Writer
+- 🌱 I have a flair for concise API documentation, problem-solving, and automation
+- 💞️ I’m looking forward to working with you
 - 📫 How to reach me ...ifedolapojow@gmail.com
 
 <!---
