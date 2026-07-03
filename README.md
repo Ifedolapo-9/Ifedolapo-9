@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ifedolapo-9
-- 👀 I’m a Python Developer and Technical Writer
+- 👀 I’m a Python Developer and Freelance Technical Writer for tech companies 
 - 🌱 I have a flair for concise API documentation, problem-solving, and automation
-- 💞️ I’m looking forward to working with you
+- 💞️ IF you need someone to build and write for you. I'm your guy. 
 - 📫 How to reach me ...ifedolapojow@gmail.com
 
 <!---
